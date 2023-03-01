@@ -1,17 +1,17 @@
-.odd{
-    background-color: hsl(351, 100%, 86%);
-    font-family: Verdana, "DejaVu Sans", sans-serif;
+.odd {
+	background-color: hsl(351, 100%, 86%);
+	font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #two {
-    color: hsl(240, 100%, 50%);
-    font-size: 36px;
+	color: hsl(240, 100%, 50%);
+	font-size: 36px;
 }
 .three {
-    font-size: 24px;
+	font-size: 24px;
 }
 #four {
-    background-color: hsl(120, 73%, 75%);
-    font-size: 24px;
-    font-weight: bold;
-    font-family: Verdana, "DejaVu Sans", sans-serif;
+	background-color: hsl(120, 73%, 75%);
+	font-size: 24px;
+	font-weight: bold;
+	font-family: Verdana, "DejaVu Sans", sans-serif;
 }
